@@ -43,9 +43,9 @@ OK TC es una aplicación web que le permite al usuario validar el número de una
 
 5. Imagen del prototipo final
 
-![Prototipo de alta fidelidad figma 1](/src/img/bg-tarjeta/cardframe1.JPG)
+![Prototipo de alta fidelidad figma 1](/src/img/bg-tarjeta/cardFrame1.JPG)
 
-![Prototipo de alta fidelidad figma 2y3](/src/img/bg-tarjeta/cardframe2y3.JPG)
+![Prototipo de alta fidelidad figma 2y3](/src/img/bg-tarjeta/cardFrame2y3.JPG)
 
 ---
 
