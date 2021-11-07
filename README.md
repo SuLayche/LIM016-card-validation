@@ -3,18 +3,15 @@
 ## Índice
 
 - [1. Presentación](#1-Presentación)
-- [2. Imagen del proyecto final](#3-Imagen-del-proyecto-final)
-- [3. Investigación UX](#4-Investigación-UX)
-- [4. Pistas, tips y lecturas complementarias](#6-pistas-tips-y-lecturas-complementarias)
+- [2. Imagen del proyecto final](#2-Imagen-del-proyecto-final)
+- [3. Investigación UX](#3-Investigación-UX)
+- [4. Pistas, tips y lecturas complementarias](#4-pistas-tips-y-lecturas-complementarias)
 
 ---
 
 ## 1. Presentación
 
-OK TC es una aplicación web que le permite al
-usuario validar el número de una tarjeta de crédito. Además, cuenta con la
-funcionalidad para ocultar todos los dígitos de una tarjeta menos
-los últimos cuatro.
+OK TC es una aplicación web que le permite al usuario validar el número de una tarjeta de crédito. Además, cuenta con la funcionalidad para ocultar todos los dígitos de una tarjeta menos los últimos cuatro.
 
 ## 2. Imagen del proyecto final
 
@@ -27,12 +24,15 @@ los últimos cuatro.
 ## 3. Investigación UX
 
 1. Usuarios y los objetivos en relación con el producto.
+
    Los principales usuarios de OK TC son personas entre 18 y 80 años que cuenten con una tarjeta de crédito.
 
 2. Solución del problema y necesidad del usuario.
+
    Debido al contexto Covid las compras online se han incrementado exponencialmente, es por ello que OK TC nace con la finalidad de mejorar la experiencia de compra de los usuarios, que por diversos factores tales como la falta de tiempo, evitar las aglomeraciones, el contacto con billetes y monedas deciden realizar una compra online con una tarjeta de crédito.
 
 3. Foto del primer prototipo en papel / Baja fidelidad.
+
    ![PROTOTIPO DE BAJA FIDELIDAD](src/img/bg-tarjeta/prototipoBajaFidelidad.jpeg)
 
 4. Feedback
@@ -41,11 +41,13 @@ los últimos cuatro.
    - Mis compañeras me ayudaron a que el botón "Validar" me funciene, pues estaba usuando onclick.
    - Mis compañeras me dieron pistas para realizar las función de Maskify.
 
-5. Imagen del prototipo final.
+5. Imagen del prototipo final
 
 ![Prototipo de alta fidelidad figma 1](/src/img/bg-tarjeta/cardframe1.JPG)
 
-## ![Prototipo de alta fidelidad figma 2y3](/src/img/bg-tarjeta/cardframe2y3.JPG)
+![Prototipo de alta fidelidad figma 2y3](/src/img/bg-tarjeta/cardframe2y3.JPG)
+
+---
 
 ## 4. Pistas, tips y lecturas complementarias
 
