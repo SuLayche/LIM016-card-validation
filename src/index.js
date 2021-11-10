@@ -3,6 +3,7 @@ import validator from "./validator.js";
 // const lengg = validator.isValid('4083952015263');
 // console.log(lengg);
 
+//seleccionar los elementos del documento por medio del valor del atributo y le asignamos a una variable
 const validar = document.getElementById("validar");
 let numeroTarjeta = document.querySelector(".numero");
 let inputNombre = document.getElementById("inputNombre");
@@ -13,7 +14,13 @@ let inputCCV = document.getElementById("inputCCV");
 
 validar.addEventListener("click", validarTC, false);
 function validarTC() {
-  if (inputNumero.value === "") {
+  if (
+    inputNumero.value === "" ||
+    inputNombre.value === "" ||
+    selectMes.value === "" ||
+    selectYear.value === "" ||
+    inputCCV.value === ""
+  ) {
     alert("Debe completar todos los campos en blanco para Validar");
   } else {
     const valido = validator.isValid(inputNumero.value.replace(/\s/g, ""));
